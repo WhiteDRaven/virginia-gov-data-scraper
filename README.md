@@ -21,8 +21,6 @@ Manual copy-pasting from websites often results in plain text, losing the underl
 ## Output Example
 
 The script transforms raw HTML into a structured business report.
-
-*(Place your "Split Screen" screenshot here: Code on the left, Excel Output on the right)*
 ![Images/Virginia_Gov_Data_Clean_View.PNG]
 
 ## Technologies Used
